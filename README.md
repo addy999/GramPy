@@ -1,7 +1,7 @@
 # GramPy
 
 <p align="center" width="100%">
-  <img src="Logo.png" width="150">
+  <img src="Logo-removebg-preview.png" width="150">
 </p>
 
 ---
