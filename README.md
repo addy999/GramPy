@@ -1,5 +1,9 @@
 # GramPy
 
+Yet another Instagram scraper built with Python. A few problems with other scrapers out there is that they have a 100% chance of completing scraping requests successfully, and in a production or server environment (where there's no manual intervention to authenticate), that's an issue.
+
+Thus, enter GramPy: a scraper with browser-based authentication, automatic proxy cycling, and asynchronous usage. Check example.py for a demo.
+
 <p align="center" width="100%">
   <img src="Logo-removebg-preview.png" width="150">
 </p>
